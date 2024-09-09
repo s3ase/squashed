@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.motheotvet.edu.za.ico",
     "slug": "motheo-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "90.29%",
+    "uptimeDay": "90.29%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "90.29%",
     "time": 2179,
     "timeDay": 2179,
     "timeWeek": 2179,
     "timeMonth": 2179,
     "timeYear": 2179,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-09": 84,
+      "2024-09-08": 31
     }
   }
 ]
