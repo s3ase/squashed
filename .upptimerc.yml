@@ -4,8 +4,10 @@ repo: squashed # The name of this repository
 sites:
   - name: 21 Chunks
     url: https://www.21chunks.co.za
+  - name: Matrix
+    url: https://matrix.decoded.ltd
   - name: Motheo Website
-    url: https://www.motheotvet.edu.za
+    url: https://www.motheotvet.edu.za 
   #- name: 
   # url:
   #- name: IPv6 test
