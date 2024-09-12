@@ -7,7 +7,27 @@ sites:
   - name: Matrix
     url: https://matrix.decoded.ltd
   - name: Motheo Website
-    url: https://www.motheotvet.edu.za 
+    url: https://www.motheotvet.edu.za
+  - name: Motheo Artisan
+    url: $ARTISAN
+  - name: Motheo Bloemfontein
+    url: $BLOEMFONTEIN
+  - name: Motheo BOTSHABELO
+    url: $BOTSHABELO
+  - name: Motheo Central Office
+    url: $CENTRALOFFICE
+  - name: Motheo Hillside View
+    url: $HILLSIDEVIEW 
+  - name: Motheo Incubator
+    url: $INCUBATOR
+  - name: Motheo Koffiefontein
+    url: $KOFFIEFONTEIN
+  - name: Motheo Plot 32
+    url: $PLOT32
+  - name: Motheo Thaba Nchu
+    url: $THABANCHU
+  - name: Motheo Zastron
+    url: $ZASTRON
   #- name: 
   # url:
   #- name: IPv6 test
