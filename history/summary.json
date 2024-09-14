@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 724,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 296,
+    "timeDay": 483,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1904,
-    "timeDay": 1941,
-    "timeWeek": 1904,
-    "timeMonth": 1904,
-    "timeYear": 1904,
+    "time": 2017,
+    "timeDay": 2206,
+    "timeWeek": 2017,
+    "timeMonth": 2017,
+    "timeYear": 2017,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.motheotvet.edu.za.ico",
     "slug": "motheo-website",
     "status": "up",
-    "uptime": "12.76%",
+    "uptime": "12.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.76%",
-    "uptimeMonth": "12.76%",
-    "uptimeYear": "12.76%",
-    "time": 2864,
-    "timeDay": 3852,
-    "timeWeek": 2864,
-    "timeMonth": 2864,
-    "timeYear": 2864,
+    "uptimeWeek": "12.19%",
+    "uptimeMonth": "12.19%",
+    "uptimeYear": "12.19%",
+    "time": 2800,
+    "timeDay": 2910,
+    "timeWeek": 2800,
+    "timeMonth": 2800,
+    "timeYear": 2800,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -63,8 +63,8 @@
   },
   {
     "name": "Motheo Artisan",
-    "url": "$ARTISAN",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.66",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.66.ico",
     "slug": "motheo-artisan",
     "status": "down",
     "uptime": "0.00%",
@@ -78,15 +78,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
   },
   {
     "name": "Motheo Bloemfontein",
-    "url": "$BLOEMFONTEIN",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.82",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.82.ico",
     "slug": "motheo-bloemfontein",
     "status": "down",
     "uptime": "0.00%",
@@ -100,15 +100,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
   },
   {
     "name": "Motheo BOTSHABELO",
-    "url": "$BOTSHABELO",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.114",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.114.ico",
     "slug": "motheo-botshabelo",
     "status": "down",
     "uptime": "0.00%",
@@ -122,15 +122,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
   },
   {
     "name": "Motheo Central Office",
-    "url": "$CENTRALOFFICE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.130",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.130.ico",
     "slug": "motheo-central-office",
     "status": "down",
     "uptime": "0.00%",
@@ -144,15 +144,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
   },
   {
     "name": "Motheo Hillside View",
-    "url": "$HILLSIDEVIEW",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.146",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.146.ico",
     "slug": "motheo-hillside-view",
     "status": "down",
     "uptime": "0.00%",
@@ -166,15 +166,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
   },
   {
     "name": "Motheo Incubator",
-    "url": "$INCUBATOR",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.194",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.194.ico",
     "slug": "motheo-incubator",
     "status": "down",
     "uptime": "0.00%",
@@ -188,15 +188,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
   },
   {
     "name": "Motheo Koffiefontein",
-    "url": "$KOFFIEFONTEIN",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.162",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.162.ico",
     "slug": "motheo-koffiefontein",
     "status": "down",
     "uptime": "0.02%",
@@ -210,15 +210,35 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
   },
   {
+    "name": "Motheo Mechanical Skills",
+    "url": "https://154.115.56.178",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.178.ico",
+    "slug": "motheo-mechanical-skills",
+    "status": "down",
+    "uptime": "12.27%",
+    "uptimeDay": "12.27%",
+    "uptimeWeek": "12.27%",
+    "uptimeMonth": "12.27%",
+    "uptimeYear": "12.27%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
+  },
+  {
     "name": "Motheo Plot 32",
-    "url": "$PLOT32",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.98",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.98.ico",
     "slug": "motheo-plot-32",
     "status": "down",
     "uptime": "0.00%",
@@ -232,15 +252,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
   },
   {
     "name": "Motheo Thaba Nchu",
-    "url": "$THABANCHU",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.210",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.210.ico",
     "slug": "motheo-thaba-nchu",
     "status": "down",
     "uptime": "0.00%",
@@ -254,15 +274,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
   },
   {
     "name": "Motheo Zastron",
-    "url": "$ZASTRON",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://154.115.56.226",
+    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.226.ico",
     "slug": "motheo-zastron",
     "status": "down",
     "uptime": "0.00%",
@@ -276,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 82,
+      "2024-09-14": 479,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
