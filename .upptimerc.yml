@@ -9,25 +9,27 @@ sites:
   - name: Motheo Website
     url: https://www.motheotvet.edu.za
   - name: Motheo Artisan
-    url: $ARTISAN
+    url: https://154.115.56.66
   - name: Motheo Bloemfontein
-    url: $BLOEMFONTEIN
+    url: https://154.115.56.82
   - name: Motheo BOTSHABELO
-    url: $BOTSHABELO
+    url: https://154.115.56.114
   - name: Motheo Central Office
-    url: $CENTRALOFFICE
+    url: https://154.115.56.130
   - name: Motheo Hillside View
-    url: $HILLSIDEVIEW 
+    url: https://154.115.56.146
   - name: Motheo Incubator
-    url: $INCUBATOR
+    url: https://154.115.56.194
   - name: Motheo Koffiefontein
-    url: $KOFFIEFONTEIN
+    url: https://154.115.56.162
+  - name: Motheo Mechanical Skills
+    url: https://154.115.56.178
   - name: Motheo Plot 32
-    url: $PLOT32
+    url: https://154.115.56.98
   - name: Motheo Thaba Nchu
-    url: $THABANCHU
+    url: https://154.115.56.210
   - name: Motheo Zastron
-    url: $ZASTRON
+    url: https://154.115.56.226
   #- name: 
   # url:
   #- name: IPv6 test
