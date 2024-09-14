@@ -9,7 +9,9 @@ sites:
   - name: Motheo Website
     url: https://www.motheotvet.edu.za
   - name: Motheo Artisan
-    url: https://154.115.56.66
+    check: "tcp-ping"
+    url: 154.115.56.66
+    port: 53
   - name: Motheo Bloemfontein
     url: https://154.115.56.82
   - name: Motheo BOTSHABELO
