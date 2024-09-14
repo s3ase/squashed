@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 483,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 285,
+    "timeDay": 377,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2017,
-    "timeDay": 2206,
-    "timeWeek": 2017,
-    "timeMonth": 2017,
-    "timeYear": 2017,
+    "time": 1979,
+    "timeDay": 2066,
+    "timeWeek": 1979,
+    "timeMonth": 1979,
+    "timeYear": 1979,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.motheotvet.edu.za.ico",
     "slug": "motheo-website",
     "status": "up",
-    "uptime": "12.19%",
+    "uptime": "12.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.19%",
-    "uptimeMonth": "12.19%",
-    "uptimeYear": "12.19%",
-    "time": 2800,
-    "timeDay": 2910,
-    "timeWeek": 2800,
-    "timeMonth": 2800,
-    "timeYear": 2800,
+    "uptimeWeek": "12.18%",
+    "uptimeMonth": "12.18%",
+    "uptimeYear": "12.18%",
+    "time": 2781,
+    "timeDay": 2781,
+    "timeWeek": 2781,
+    "timeMonth": 2781,
+    "timeYear": 2781,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -63,8 +63,8 @@
   },
   {
     "name": "Motheo Artisan",
-    "url": "https://154.115.56.66",
-    "icon": "https://icons.duckduckgo.com/ip3/154.115.56.66.ico",
+    "url": "154.115.56.66",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "motheo-artisan",
     "status": "down",
     "uptime": "0.00%",
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -221,18 +221,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/154.115.56.178.ico",
     "slug": "motheo-mechanical-skills",
     "status": "down",
-    "uptime": "8.06%",
-    "uptimeDay": "8.06%",
-    "uptimeWeek": "8.06%",
-    "uptimeMonth": "8.06%",
-    "uptimeYear": "8.06%",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 5
     }
   },
   {
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -296,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 479,
+      "2024-09-14": 484,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
