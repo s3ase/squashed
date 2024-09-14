@@ -14,24 +14,34 @@ sites:
     port: 53
   - name: Motheo Bloemfontein
     url: https://154.115.56.82
+    __dangerous__disable_verify_peer: true
   - name: Motheo BOTSHABELO
     url: https://154.115.56.114
+    __dangerous__disable_verify_peer: true
   - name: Motheo Central Office
     url: https://154.115.56.130
+    __dangerous__disable_verify_peer: true
   - name: Motheo Hillside View
     url: https://154.115.56.146
+    __dangerous__disable_verify_peer: true
   - name: Motheo Incubator
     url: https://154.115.56.194
+    __dangerous__disable_verify_peer: true
   - name: Motheo Koffiefontein
     url: https://154.115.56.162
+    __dangerous__disable_verify_peer: true
   - name: Motheo Mechanical Skills
     url: https://154.115.56.178
+    __dangerous__disable_verify_peer: true
   - name: Motheo Plot 32
     url: https://154.115.56.98
+    __dangerous__disable_verify_peer: true
   - name: Motheo Thaba Nchu
     url: https://154.115.56.210
+    __dangerous__disable_verify_peer: true
   - name: Motheo Zastron
     url: https://154.115.56.226
+    __dangerous__disable_verify_peer: true
   #- name: 
   # url:
   #- name: IPv6 test
