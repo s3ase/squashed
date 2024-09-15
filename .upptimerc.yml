@@ -12,6 +12,7 @@ sites:
     check: "tcp-ping"
     url: 154.115.56.66
     port: 443
+    __dangerous__disable_verify_peer: true
   - name: Motheo Bloemfontein
     url: https://154.115.56.82
     __dangerous__disable_verify_peer: true
