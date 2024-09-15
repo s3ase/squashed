@@ -10,58 +10,58 @@ sites:
     url: https://www.motheotvet.edu.za
   - name: Motheo Artisan
     check: "tcp-ping"
-    url: 154.115.56.66
+    url: $ARTISAN #154.115.56.66
     port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Bloemfontein
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.82
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo BOTSHABELO
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.114
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Central Office
     check: "tcp-ping"
-    port: 443
     url: $CENTRALOFFICE
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Hillside View
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.146
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Incubator
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.194
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Koffiefontein
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.162
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Mechanical Skills
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.178
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Plot 32
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.98
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Thaba Nchu
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.210
+    port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Zastron
     check: "tcp-ping"
-    port: 443
     url: 154.115.56.226
+    port: 443
     __dangerous__disable_verify_peer: true
   #- name: 
   # url:
