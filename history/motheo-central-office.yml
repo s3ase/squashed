@@ -1,7 +1,7 @@
 url: $CENTRALOFFICE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-15T19:06:52.219Z
+status: up
+code: 200
+responseTime: 216
+lastUpdated: 2024-09-15T19:15:37.955Z
 startTime: 2024-09-12T09:15:20.661Z
 generator: Upptime <https://github.com/upptime/upptime>
