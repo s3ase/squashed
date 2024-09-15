@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 377,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "time": 265,
+    "timeDay": 175,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1979,
-    "timeDay": 2066,
-    "timeWeek": 1979,
-    "timeMonth": 1979,
-    "timeYear": 1979,
+    "time": 2144,
+    "timeDay": 2384,
+    "timeWeek": 2144,
+    "timeMonth": 2144,
+    "timeYear": 2144,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.motheotvet.edu.za.ico",
     "slug": "motheo-website",
     "status": "up",
-    "uptime": "12.18%",
+    "uptime": "10.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.18%",
-    "uptimeMonth": "12.18%",
-    "uptimeYear": "12.18%",
-    "time": 2781,
-    "timeDay": 2781,
-    "timeWeek": 2781,
-    "timeMonth": 2781,
-    "timeYear": 2781,
+    "uptimeWeek": "10.87%",
+    "uptimeMonth": "10.87%",
+    "uptimeYear": "10.87%",
+    "time": 2603,
+    "timeDay": 1754,
+    "timeWeek": 2603,
+    "timeMonth": 2603,
+    "timeYear": 2603,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -78,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -100,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -122,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -144,7 +148,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -166,7 +171,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 885
     }
@@ -188,7 +194,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -199,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/154.115.56.162.ico",
     "slug": "motheo-koffiefontein",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -221,18 +229,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/154.115.56.178.ico",
     "slug": "motheo-mechanical-skills",
     "status": "down",
-    "uptime": "0.83%",
-    "uptimeDay": "0.83%",
-    "uptimeWeek": "0.83%",
-    "uptimeMonth": "0.83%",
-    "uptimeYear": "0.83%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 5
+      "2024-09-15": 98,
+      "2024-09-14": 961
     }
   },
   {
@@ -252,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -274,7 +284,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
@@ -296,7 +307,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 484,
+      "2024-09-15": 98,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 884
     }
