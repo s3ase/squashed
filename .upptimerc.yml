@@ -14,34 +14,54 @@ sites:
     port: 443
     __dangerous__disable_verify_peer: true
   - name: Motheo Bloemfontein
-    url: https://154.115.56.82
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.82
     __dangerous__disable_verify_peer: true
   - name: Motheo BOTSHABELO
-    url: https://154.115.56.114
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.114
     __dangerous__disable_verify_peer: true
   - name: Motheo Central Office
-    url: https://154.115.56.130
+    check: "tcp-ping"
+    port: 443
+    url: $CENTRALOFFICE
     __dangerous__disable_verify_peer: true
   - name: Motheo Hillside View
-    url: https://154.115.56.146
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.146
     __dangerous__disable_verify_peer: true
   - name: Motheo Incubator
-    url: https://154.115.56.194
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.194
     __dangerous__disable_verify_peer: true
   - name: Motheo Koffiefontein
-    url: https://154.115.56.162
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.162
     __dangerous__disable_verify_peer: true
   - name: Motheo Mechanical Skills
-    url: https://154.115.56.178
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.178
     __dangerous__disable_verify_peer: true
   - name: Motheo Plot 32
-    url: https://154.115.56.98
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.98
     __dangerous__disable_verify_peer: true
   - name: Motheo Thaba Nchu
-    url: https://154.115.56.210
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.210
     __dangerous__disable_verify_peer: true
   - name: Motheo Zastron
-    url: https://154.115.56.226
+    check: "tcp-ping"
+    port: 443
+    url: 154.115.56.226
     __dangerous__disable_verify_peer: true
   #- name: 
   # url:
