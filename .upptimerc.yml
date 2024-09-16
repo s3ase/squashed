@@ -8,6 +8,8 @@ sites:
     url: https://matrix.decoded.ltd
   - name: Motheo Website
     url: https://www.motheotvet.edu.za
+  - name: Motheo Security
+    url: $SECURITY
   - name: Motheo Artisan
     check: "tcp-ping"
     url: $ARTISAN
