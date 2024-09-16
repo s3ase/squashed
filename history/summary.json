@@ -22,19 +22,19 @@
     "url": "https://matrix.decoded.ltd",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.decoded.ltd.ico",
     "slug": "matrix",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1864,
-    "timeDay": 1615,
-    "timeWeek": 1864,
-    "timeMonth": 1864,
-    "timeYear": 1864,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1870,
+    "timeDay": 1651,
+    "timeWeek": 1870,
+    "timeMonth": 1870,
+    "timeYear": 1870,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 9
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.motheotvet.edu.za.ico",
     "slug": "motheo-website",
     "status": "up",
-    "uptime": "9.19%",
+    "uptime": "9.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.19%",
-    "uptimeYear": "9.19%",
+    "uptimeMonth": "9.18%",
+    "uptimeYear": "9.18%",
     "time": 2418,
     "timeDay": 2027,
     "timeWeek": 2433,
     "timeMonth": 2418,
     "timeYear": 2418,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -82,7 +82,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -106,7 +106,7 @@
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -130,7 +130,7 @@
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -154,7 +154,7 @@
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -178,7 +178,7 @@
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -202,7 +202,7 @@
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -226,7 +226,7 @@
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -250,7 +250,7 @@
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 961
     }
@@ -272,7 +272,7 @@
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -296,7 +296,7 @@
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -320,7 +320,7 @@
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-09-16": 467,
+      "2024-09-16": 475,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
