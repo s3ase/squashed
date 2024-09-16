@@ -10,6 +10,7 @@ sites:
     url: https://www.motheotvet.edu.za
   - name: Motheo Security
     url: $SECURITY
+    __dangerous__disable_verify_peer: true
   - name: Motheo Artisan
     check: "tcp-ping"
     url: $ARTISAN
