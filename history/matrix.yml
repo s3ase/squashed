@@ -1,7 +1,7 @@
-url: https://matrix.decoded.ltd
-status: down
-code: 404
-responseTime: 570
-lastUpdated: 2024-10-09T06:46:54.578Z
+url: https://matrix.decoded.ltd/_matrix/static/
+status: up
+code: 200
+responseTime: 445
+lastUpdated: 2024-10-12T22:30:24.960Z
 startTime: 2024-09-12T08:52:15.945Z
 generator: Upptime <https://github.com/upptime/upptime>
