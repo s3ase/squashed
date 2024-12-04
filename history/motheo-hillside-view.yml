@@ -1,7 +1,7 @@
 url: $HILLSIDEVIEW
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-04T17:02:53.442Z
+status: up
+code: 200
+responseTime: 257
+lastUpdated: 2024-12-04T17:38:12.612Z
 startTime: 2024-09-12T09:15:23.805Z
 generator: Upptime <https://github.com/upptime/upptime>
